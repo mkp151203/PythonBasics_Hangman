@@ -7,7 +7,8 @@ How to run the game -
 
 2. To run the program just extract files and double click on "hangman2.1.py"
 
-3. ⚠️**Do not edit score.txt file. If you do so your progress will be lost**⚠️
+>[!WARNING]
+>3. Do not edit score.txt file. If you do so your progress will be lost
 
 4. Do not delete any of the files
 
@@ -15,3 +16,5 @@ How to run the game -
 example - wordA, wordB, wordC, etc.
 
 6. If you want to quit mid game just type "quit"
+
+**[Download](https://github.com/mkp151203/PythonBasics_Hangman/archive/refs/heads/main.zip)**
